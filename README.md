@@ -1,5 +1,9 @@
-# Mirror Trip WebGL
+# Mirror Trip greybox — moved
 
-Mirror Trip 灰盒版本的浏览器试玩构建，通过 GitHub Pages 发布。
+The playable build now lives in [Game_design_public/mirror-trip-greybox](https://github.com/Singlong404/Game_design_public/tree/main/mirror-trip-greybox).
 
-项目入口为 `index.html`。
+[Play the greybox](https://singlong404.github.io/Game_design_public/mirror-trip-greybox/) · [Play the current game](https://singlong404.github.io/Game_design_public/mirror-trip/)
+
+This repository keeps its original history and redirects the old GitHub Pages address.
+
+AA_建筑设计沈工 / Rong Shen (Singlong404)
