@@ -2,7 +2,7 @@
   "project": "Game_design_Oddities Department Store",
   "date": "2026-11-15",
   "fileCount": 33,
-  "bytes": 83388037,
+  "bytes": 83388082,
   "files": [
     {
       "path": ".gitignore",
@@ -121,13 +121,13 @@
     },
     {
       "path": "index.html",
-      "bytes": 2082,
-      "sha256": "85ede7e95e5d0fe37848118950e9d4937c70b95453c3b63d4023531de4b1895a"
+      "bytes": 2100,
+      "sha256": "2a5ce25e839ea1a23a35ffeb92df143e3b8f36daa2045178abfab737e2e3d984"
     },
     {
       "path": "README.md",
-      "bytes": 1396,
-      "sha256": "6b03c9e22224596ead91f42b7466d74d074a2a909bd01f111df1b2868c0f8678"
+      "bytes": 1423,
+      "sha256": "de232cfce71ff1bbbce88d732dcb114ec646ff8892048429950fa06df4e5532a"
     },
     {
       "path": "sandbox/Build/Web.data.unityweb",

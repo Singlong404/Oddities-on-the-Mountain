@@ -4,9 +4,9 @@
 
 本仓库存放《山间怪奇百货》的正式 Demo 与 v6 灰盒沙盒可运行版本。
 
-- [正式版在线试玩](https://singlong404.github.io/mirror-trip-web/formal/)：四轮经营，空间建造、手动服务、剧情和热区复盘。
-- [v6 灰盒沙盒在线试玩](https://singlong404.github.io/mirror-trip-web/sandbox/)：自由调整客流、循环经营与布局实验。
-- [Windows 与 Web ZIP 下载](https://github.com/Singlong404/mirror-trip-web/releases/tag/oddities-2026-11-15)：四个完整压缩包和 SHA-256 校验。
+- [正式版在线试玩](https://singlong404.github.io/Oddities-on-the-Mountain/formal/)：四轮经营，空间建造、手动服务、剧情和热区复盘。
+- [v6 灰盒沙盒在线试玩](https://singlong404.github.io/Oddities-on-the-Mountain/sandbox/)：自由调整客流、循环经营与布局实验。
+- [Windows 与 Web ZIP 下载](https://github.com/Singlong404/Oddities-on-the-Mountain/releases/tag/oddities-2026-11-15)：四个完整压缩包和 SHA-256 校验。
 
 推荐桌面浏览器与键鼠。WASD 移动、E 交互，更多操作见游戏内提示。网页存档由当前浏览器保存，正式版与沙盒版独立；更换浏览器或清理站点数据会影响存档。
 
