@@ -1,0 +1,173 @@
+{
+  "project": "Game_design_Oddities Department Store",
+  "date": "2026-11-15",
+  "fileCount": 33,
+  "bytes": 83388037,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 29,
+      "sha256": "51f56924f641b11740eafbae6f952acc0d34c122b8a1350e0ab29c03052fe219"
+    },
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "formal/Build/Web.data.unityweb",
+      "bytes": 44895729,
+      "sha256": "aa0ffdb5728bdc73de2b2d9d870383406fcf59e355d9ccba47fcd3bb8df6b1c9"
+    },
+    {
+      "path": "formal/Build/Web.framework.js.unityweb",
+      "bytes": 75111,
+      "sha256": "86ca8523593c83704829cb6b7ffdbd693c38c825baaed78a80d50e326c78d134"
+    },
+    {
+      "path": "formal/Build/Web.loader.js",
+      "bytes": 48779,
+      "sha256": "010bd88cdd0b4f9be8df74d36b830f5b179dc15ad379c02687266ec8eaee184e"
+    },
+    {
+      "path": "formal/Build/Web.wasm.unityweb",
+      "bytes": 10389326,
+      "sha256": "ba8c01c44d59a8f3fd8854ad9b9708013e55afcf07ec628d210111b5acdc800c"
+    },
+    {
+      "path": "formal/index.html",
+      "bytes": 3737,
+      "sha256": "965877dd864e6e7c9a7872884e2ad5abbc08e11d62c89d9057c9a1a79549faad"
+    },
+    {
+      "path": "formal/Licenses/Art/Fantasy1114/Licenses/Kenney.txt",
+      "bytes": 645,
+      "sha256": "dabd7cc9f78caf9dd0e0c2dbf27eca9c22383bed5bf035bc26341a246b748cc6"
+    },
+    {
+      "path": "formal/Licenses/Art/Fantasy1114/Licenses/Sources.txt",
+      "bytes": 1669,
+      "sha256": "8fe48941401367cc3931bf9f60989e6ec0953407893a280ed3ad703bd88621a6"
+    },
+    {
+      "path": "formal/Licenses/Art/Fonts/OFL.txt",
+      "bytes": 4301,
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    {
+      "path": "formal/Licenses/Art/Models/Characters/KayKit/Adventurers_License.txt",
+      "bytes": 1554,
+      "sha256": "d4adc31660d1db22eb60eba648e01db41577548f6fa1a3576cb4a6283dae0a58"
+    },
+    {
+      "path": "formal/Licenses/Art/Models/Characters/KayKit/Skeletons/License.txt",
+      "bytes": 1552,
+      "sha256": "327a1aac6e6ff1259d82d0024cdaf088bcef302f8d7a116b5142538ac2b5cf8d"
+    },
+    {
+      "path": "formal/Licenses/Art/Night1114/Licenses/Kenney_Graveyard_CC0.txt",
+      "bytes": 702,
+      "sha256": "a48e274258386c6bcb5302f17eaab40304cd805cc68be2754e2452179418c70e"
+    },
+    {
+      "path": "formal/Licenses/Art/Night1114/Licenses/Kenney_Particles_CC0.txt",
+      "bytes": 645,
+      "sha256": "dabd7cc9f78caf9dd0e0c2dbf27eca9c22383bed5bf035bc26341a246b748cc6"
+    },
+    {
+      "path": "formal/Licenses/Art/Night1114/Licenses/Kenney_Pirate_CC0.txt",
+      "bytes": 699,
+      "sha256": "5e99246a5a65fa3420a1a1c7a8616f096202c78866f73d7aacfe73c0aab0ca36"
+    },
+    {
+      "path": "formal/Licenses/Art/Night1114/Licenses/Sources_CC0.txt",
+      "bytes": 3873,
+      "sha256": "504825717245ec2143a1c4964434f73469ea6fd9969bd6120cb7efac60ed1457"
+    },
+    {
+      "path": "formal/Licenses/Audio/CC0_1114/来源与许可.txt",
+      "bytes": 1644,
+      "sha256": "f15d1455154eb0290ddefeb1c55857499081202058fcab27d224d23fcbb8775c"
+    },
+    {
+      "path": "formal/Licenses/UI/幽影叙事/Fonts/01_中文标题_站酷小薇/OFL.txt",
+      "bytes": 4400,
+      "sha256": "a094514ca57cf8f9c5e8d8d1adab5d8cd3a377297ff016f9df2c05b3ecd77f0a"
+    },
+    {
+      "path": "formal/Licenses/UI/幽影叙事/Fonts/02_中文说明_霞鹜文楷/OFL.txt",
+      "bytes": 5176,
+      "sha256": "0333a85fe077b6849f8e417acc44e8bd879442ceb681e271acf93e2d57fd4e2e"
+    },
+    {
+      "path": "formal/Licenses/UI/幽影叙事/Kenney/License.txt",
+      "bytes": 794,
+      "sha256": "f7185bbb59c1a5dec131621e76bddde6855035224119927bba21f3b0bbc3ca83"
+    },
+    {
+      "path": "formal/Licenses/UI/幽影叙事/Sprites/来源说明_不要混称为第三方CC0.txt",
+      "bytes": 588,
+      "sha256": "26f17524cf3e6bd257e49f5d145da18a8e02f77fade0fab702eb4255ed69eff4"
+    },
+    {
+      "path": "formal/README_开始这里.txt",
+      "bytes": 1124,
+      "sha256": "6cfb46160eb1073d151c80fcf75772ae63cf1f08eabffc5832f6fe43cb83e5e2"
+    },
+    {
+      "path": "formal/SHA256.json",
+      "bytes": 2376,
+      "sha256": "08cde8162e0be9d6c314af63766dea193c59c45736f12dcbbeeea594d07ea2d4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2082,
+      "sha256": "85ede7e95e5d0fe37848118950e9d4937c70b95453c3b63d4023531de4b1895a"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1396,
+      "sha256": "6b03c9e22224596ead91f42b7466d74d074a2a909bd01f111df1b2868c0f8678"
+    },
+    {
+      "path": "sandbox/Build/Web.data.unityweb",
+      "bytes": 18003463,
+      "sha256": "9f6305955658b9876384856ccee3e4961cf0bf745236188463ff533bd4d65fd5"
+    },
+    {
+      "path": "sandbox/Build/Web.framework.js.unityweb",
+      "bytes": 75079,
+      "sha256": "c4e1071b7a2dbad12346d9b2377bfe30e641d2424c8edab065306ea2f8b9b4e7"
+    },
+    {
+      "path": "sandbox/Build/Web.loader.js",
+      "bytes": 48779,
+      "sha256": "c1098798a51b2fd04910842fbb03226000175bb1ab458f39bdbdf0f3acc006ce"
+    },
+    {
+      "path": "sandbox/Build/Web.wasm.unityweb",
+      "bytes": 9801117,
+      "sha256": "e031c202aaaf76953ff2865fc30a8a276575a82fce7ccb528d486d46a31622ce"
+    },
+    {
+      "path": "sandbox/index.html",
+      "bytes": 2095,
+      "sha256": "4e8f29cd863a8ee3dd1e8a3cb016214b541d92c868f903daa7a7602d43468ea6"
+    },
+    {
+      "path": "sandbox/Licenses/NotoSansCJK_OFL.txt",
+      "bytes": 4301,
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    {
+      "path": "sandbox/README_沙盒说明.txt",
+      "bytes": 4587,
+      "sha256": "52127da192ea5126b08ae2df1afc9bad88d2f8bdac3d780c8067b66dc724d337"
+    },
+    {
+      "path": "sandbox/SHA256.json",
+      "bytes": 685,
+      "sha256": "d9f802321810b98c6284fe9eb3629cab02223c49b54bb198d6be0ef9aae6e0e9"
+    }
+  ]
+}

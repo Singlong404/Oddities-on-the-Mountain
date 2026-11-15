@@ -1,0 +1,29 @@
+CC0 sources — 2026-11-14
+
+Sky: Qwantani Night (Pure Sky), Greg Zaal / Jarod Guest, Poly Haven.
+https://polyhaven.com/a/qwantani_night_puresky
+https://polyhaven.com/license
+1K HDR: https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/qwantani_night_puresky_1k.hdr
+1,389,258 bytes; MD5 e8691211295e505f77c8c3bdcf3055d9.
+
+Bat model and included skeletal animations: Quaternius Cute Animated Monsters Pack, CC0.
+https://quaternius.com/packs/cutemonsters.html
+Official download folder: https://drive.google.com/drive/folders/1zLLO_7ZoWgUsS4uooYnVSErQYRu1VdS0
+Bat FBX file ID: 1nDm_5H0JU04Ec4cBHWodMf54bfVTMhv3
+
+Fox model and included skeletal animations: Quaternius Ultimate Animated Animal Pack, CC0.
+https://quaternius.com/packs/ultimateanimatedanimals.html
+Official download folder: https://drive.google.com/drive/folders/1uJ3N5HfB7jKTseJUNQr3N4YaN0UuEtHk
+Fox FBX file ID: 18LKS424TzJB7WO8ZjhwCimov7RNnhSih
+
+Wind strip texture: Kenney Particle Pack, trace_05.png, CC0.
+https://kenney.nl/assets/particle-pack
+Supplied locally by the user; original license included as Kenney.txt.
+Motion curves, volumetric-noise shader and scene integration authored for this project.
+Existing purchased Nature/Shop models remain under their original licenses, not CC0.
+
+Terrain detail normal: Poly Haven Forest Ground 04, CC0.
+https://polyhaven.com/a/forest_ground_04
+https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/forest_ground_04/forest_ground_04_nor_gl_1k.jpg
+MD5 a010a0802c2d9a930c6f00d3b1f196d2. Imported at 512px, low strength, retaining painted albedo.
+Bat texture from the same official CC0 pack, file ID 15YpXNBaZrr_bH-NlUrxmoA1tPgicFLzp.

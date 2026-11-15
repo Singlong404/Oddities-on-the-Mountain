@@ -1,0 +1,28 @@
+音频接入记录 / CC0 — 2026-11-14
+本目录全部为既有第三方 CC0 音频，未生成音频，无文字朗读或合成人声。
+Music.mp3: Forest Ambience, TinyWorlds
+https://opengameart.org/content/forest-ambience
+Click.ogg / Ready.ogg: Interface Sounds, Kenney
+https://opengameart.org/content/interface-sounds
+Page / Pickup / Place / Coins / Step: 50 RPG Sound Effects, Kenney
+https://opengameart.org/content/50-rpg-sound-effects
+Build.ogg: 100 CC0 Metal and Wood SFX, rubberduck
+https://opengameart.org/content/100-cc0-metal-and-wood-sfx
+Brew.wav / Spill.wav: Bubble Sound Effects, BMacZero / Brian MacIntosh
+https://opengameart.org/content/bubble-sound-effects
+保留的 Story1113/Audio/Wind.wav: wind1, Luke.RUSTLTD
+https://opengameart.org/content/wind1
+CC0: https://creativecommons.org/publicdomain/zero/1.0/
+许可核实：Kenney 随包 License.txt；其余上述来源页的 CC0 许可字段（2026-11-14）。
+源文件来自项目外 素材/确定素材/04_音效，原文件保持不变。
+
+1114二次调整新增音频：
+GlobalPiano.mp3：JRPG Piano，Joth，CC0。
+https://opengameart.org/content/jrpg-piano
+https://opengameart.org/sites/default/files/JRPG%20Piano.mp3
+2026-11-14已核验原始页面CC0许可字段，并下载原作；未生成音频。
+全局钢琴音乐替代此前主音乐，Forest Ambience保留为未启用的备选。
+Hover.ogg = Kenney Interface Sounds / select_001.ogg（低音量悬浮）
+Click.ogg = click_003.ogg（点击）；Page.ogg = switch_001.ogg（Esc）
+Place.ogg = drop_002.ogg（拿放）；Build.ogg = drop_001.ogg（建造放置）
+以上Kenney文件沿用随包CC0许可。

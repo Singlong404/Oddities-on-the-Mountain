@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>山间怪奇百货 · Singlong404</title>
+<meta name="author" content="AA_建筑设计沈工 / Singlong404"><meta name="description" content="建造山间小店，亲自服务骷髅和女巫。A four-round build-and-serve game by Singlong404.">
+<style>html,body{margin:0;width:100%;height:100%;background:#080911;color:#dedbe8;font-family:system-ui,sans-serif;overflow:hidden}#game{position:absolute;width:100%;height:100%;object-fit:contain;outline:none}#loading{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;flex-direction:column;background:radial-gradient(ellipse at 55% 40%,#25243d,#080911 72%);gap:22px;z-index:2}h1{font-size:clamp(26px,4vw,50px);font-weight:400;letter-spacing:.15em}button{background:#ffffff09;border:1px solid #cac5e566;color:#eee;padding:14px 38px;cursor:pointer;font:inherit}button:hover{background:#ffffff25}progress{width:min(440px,70vw);height:5px;accent-color:#aeb3db}#error{max-width:720px;white-space:pre-wrap;padding:20px;color:#efc9d3}small{color:#a3a1b1;text-align:center;line-height:1.8}a{color:inherit;text-decoration:none}#web-tools{position:absolute;right:8px;bottom:5px;font-size:11px;opacity:.35;z-index:1}#web-tools:hover{opacity:1}#web-tools button{padding:4px 8px;font-size:11px}</style></head>
+<body><canvas id="game" tabindex="0"></canvas><section id="loading"><h1>山间怪奇百货</h1><small>Oddities on the Mountain</small><button id="enter">进入游戏 / Play</button><progress id="progress" max="1" value="0" hidden></progress><small id="status">建议使用桌面浏览器与键鼠 · Desktop & keyboard recommended</small><div id="error" hidden></div><small>制作 · AA_建筑设计沈工<br><a href="https://singlong404.itch.io/" target="_blank" rel="noopener">Singlong404 · itch.io</a></small></section>
+<div id="web-tools"><button id="fullscreen">全屏 / Fullscreen</button></div>
+<script>
+const canvas=document.querySelector('#game'),loading=document.querySelector('#loading'),progress=document.querySelector('#progress'),status=document.querySelector('#status');
+let unityInstance;
+document.querySelector('#fullscreen').onclick=()=>{if(unityInstance)unityInstance.SetFullscreen(1);};
+document.querySelector('#enter').onclick=async()=>{
+ document.querySelector('#enter').hidden=true;progress.hidden=false;status.textContent='正在加载 / Loading…';
+ const config={dataUrl:'Build/Web.data.unityweb',frameworkUrl:'Build/Web.framework.js.unityweb',codeUrl:'Build/Web.wasm.unityweb',streamingAssetsUrl:'StreamingAssets',companyName:'Singlong404',productName:'Oddities on the Mountain',productVersion:'0.7.3',autoSyncPersistentDataPath:true,devicePixelRatio:Math.min(window.devicePixelRatio||1,1.5),showBanner:(message,type)=>{if(type==='error')showError(message);}};
+ const script=document.createElement('script');script.src='Build/Web.loader.js';script.onerror=()=>showError('无法加载游戏文件。请通过 HTTP(S) 服务打开此页面。 / Serve this folder over HTTP(S).');
+ script.onload=()=>createUnityInstance(canvas,config,p=>{progress.value=p;status.textContent='加载 / Loading '+Math.round(p*100)+'%';}).then(instance=>{unityInstance=instance;loading.style.display='none';canvas.focus();}).catch(showError);document.body.appendChild(script);
+};
+function showError(error){const box=document.querySelector('#error');box.hidden=false;box.textContent=String(error);status.textContent='加载失败 / Unable to start';}
+canvas.addEventListener('contextmenu',e=>e.preventDefault());
+// Architecture notebook: Building 27. Author: AA_建筑设计沈工 / Singlong404.
+</script></body></html>

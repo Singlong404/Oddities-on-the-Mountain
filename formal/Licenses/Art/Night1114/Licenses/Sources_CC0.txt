@@ -1,0 +1,60 @@
+﻿1114 夜景资源来源与授权
+
+所有本次下载资源与新增粒子贴图均为 CC0。原有模型包继续沿用其原始授权，未重新标记为 CC0。
+
+Kenney Pirate Kit 2.1：DeliveryChest.fbx 与 Pirate_Colormap.png。
+https://kenney.nl/assets/pirate-kit
+原包许可证：Kenney_Pirate_CC0.txt。
+
+Kenney Graveyard Kit 5.0：灯具、弯松、枯松、树桩、碎石、木杂物等。
+https://kenney.nl/assets/graveyard-kit
+原包许可证：Kenney_Graveyard_CC0.txt。
+
+Kenney Particle Pack：smoke_04、light_01 等。来自用户现有 03_特效FX 文件夹。
+https://kenney.nl/assets/particle-pack
+原包许可证：Kenney_Particles_CC0.txt。
+
+Poly Haven Rocky Terrain：Amal Kumar，1K diffuse 与 OpenGL normal。
+https://polyhaven.com/a/rocky_terrain
+Poly Haven Forest Floor：eye-candy.xyz，1K diffuse 与 OpenGL normal。
+https://polyhaven.com/a/forest_floor
+网站资产均按 CC0 提供：https://polyhaven.com/license
+
+夜间虫鸣：Wolfgang_，Crickets Ambient Noise - loopable。
+https://opengameart.org/content/crickets-ambient-noise-loopable
+资源原文件 crickets_1.mp3，页面许可 CC0。
+
+低风声：Luke.RUSTLTD，wind1（作者合成的风声，本次没有自行生成音频）。
+https://opengameart.org/content/wind1
+来自用户现有 04_音效/08_合成山风/wind1.wav；原来源说明保留于素材目录。
+
+CC0 许可说明：https://creativecommons.org/publicdomain/zero/1.0/
+核验日期：2026-11-14。
+参考图仅用于色调、灯光层次与布景方法参考，未作为游戏贴图导入。
+
+SHA-256 文件校验：
+Models\altar-stone.fbx d59250bb8a54de8820efa833ba1e784d81559e5a9d6be9d1580972fcc35c0aae
+Models\debris-wood.fbx 73fb9df43be20bb9c1759124c8bb53dd21ca4889bf4583103cc76ccfac75d602
+Models\debris.fbx 3c742c2022ae6cb49531041a7a711b7bc6789ff56e1c19f651d480edb219643e
+Models\DeliveryChest.fbx 1ed6225d618b1231f153073d70587d6ce8991dda4828c0d4c6e6b50c5036eee2
+Models\lantern-candle.fbx cf96f8418085246bd14d3cfcb1c9d2b80b45018f6d68f53d33f36ef7baa34d77
+Models\lightpost-single.fbx 187e6d4cb2598aa6c4b678ef0f425efc273abbca3b83b0bf34706c394ac98d27
+Models\pine-crooked.fbx bb5eac86302e8c3bf2dfa228f9d0022a06c7124b4deb0c3bfb9d1fa3f2310056
+Models\pine-fall-crooked.fbx 965b5a093cbc5697aa92419b66d442cff078af2610a589066ee553e4e252240b
+Models\road.fbx 581aa8fe5c62aaa56cd639a83124030789382c3e91f55e47c72dda5890e27e05
+Models\rocks.fbx 984270f92c6690ec8ae27dc871074729d62c55965776208ca9a28679b8d9da9c
+Models\trunk-long.fbx 2861974fdee0ccd97aaf31336e8509ac3cc2bb9a22c2f3169fa23a9748b35102
+Models\trunk.fbx 15eaef9630474a86bc15f98be8870a5adc6f72de59c674071d9e6fb04b25c828
+Textures\circle_05.png 05e87b80ad4e65ddc0904f91f8520bb22059ca05c053ec7f5c780118e1294012
+Textures\forest_floor.jpg f12e5adea1741f9eb7a528bfc621f8267885b9530b74c3a8afdb823899bdbf0b
+Textures\forest_floor_normal.png f2e2236121712b18d4231e1f860afaa0d4a1e38b6f89eb7d3affc47dfd115f8b
+Textures\Graveyard_Colormap.png a94b4dc4f77a4b8aec96bde94f63912a1ce12aa98eec2c1e9a37c89e20a5f091
+Textures\light_01.png c9e0e947892b87cb71e110e60d85798810142b11aed154542c50b17dc93033b0
+Textures\Pirate_Colormap.png 451e1d7a53b8e76f4b2ee58742e241509fee5f82cf2cee6e3f7aca86ba718abe
+Textures\rocky_terrain.jpg 429315865fd89c150272592f6d93def174c6f69804a565ff08e53627a885579b
+Textures\rocky_terrain_normal.png dea802ceded8d77dddf26f7161afe66d4dff2d2394c2d6ce041041fdb8f5b00f
+Textures\smoke_01.png 288b7a29b659030fe7da333159c641e2325e41e704c05b8c6db1531b59c09897
+Textures\smoke_04.png 5a529ca033f2ea99f49cead4cb6618acf534d19d4472ca34e879776bd18c9cd3
+Textures\spark_01.png d74634d80aed77812c69e071c92f6ea7e81e54b86e8d4310407a15fcc8a0afb7
+Audio\NightCrickets.mp3 5b5bd1f744087888c5623543c3ff80be9c2ce106093993e7c8a8492b0280b2c0
+Audio\SoftWind.wav a2856f794fbf77e05f8241dc4adeade7f62fa21c3c9dc49f7725b6c6218060c3
